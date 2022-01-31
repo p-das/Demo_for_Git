@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2f23e8d-a703-448c-8e36-72ddee8e0c86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Learning_From_Github.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning_From_Github.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Common_Keywords.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Common_Keywords.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Home_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Home_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Sign_In_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Sign_In_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Test_Suite/test_suite_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Test_Suite/test_suite_001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Input_Data/input_data_imdb.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Object_Repository/objectrepository_imdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Object_Repository/utilities_imdb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Base_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Common_Keywords.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Home_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Sign_In_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Watchlist_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Test_Suite/.cache/v/cache/lastfailed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Test_Suite/example_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Unit_Test_Framework/Test_Suite/test_suite_001.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,68 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Automation_Unit_Test_Framework/Test_Suite/test_suite_001.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Base_Page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Common_Keywords.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Home_Page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Sign_In_Page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="36" selection-start-column="36" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -93,10 +41,10 @@
       <list>
         <option value="$PROJECT_DIR$/demo.py" />
         <option value="$PROJECT_DIR$/demojob.bat" />
-        <option value="$PROJECT_DIR$/Automation_Unit_Test_Framework/Test_Suite/test_suite_001.py" />
         <option value="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Common_Keywords.py" />
         <option value="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Home_Page.py" />
         <option value="$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Sign_In_Page.py" />
+        <option value="$PROJECT_DIR$/Automation_Unit_Test_Framework/Test_Suite/test_suite_001.py" />
       </list>
     </option>
   </component>
@@ -126,17 +74,6 @@
             <path>
               <item name="Learning_From_Github" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning_From_Github" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning_From_Github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning_From_Github" type="462c0819:PsiDirectoryNode" />
-              <item name="Automation_Unit_Test_Framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning_From_Github" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning_From_Github" type="462c0819:PsiDirectoryNode" />
-              <item name="Automation_Unit_Test_Framework" type="462c0819:PsiDirectoryNode" />
-              <item name="Page_Object_Model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643647555505</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fixed Directory Issue">
+      <created>1643648279583</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643648279583</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -285,6 +229,9 @@
       <configuration name="pytest in test_suite_001.py" configurationId="tests" />
     </history-entry>
     <history-entry file="pytest_in_test_suite_001_py - 2022.01.31 at 22h 25m 52s.xml">
+      <configuration name="pytest in test_suite_001.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_suite_001_py - 2022.01.31 at 22h 27m 39s.xml">
       <configuration name="pytest in test_suite_001.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -316,7 +263,8 @@
     <MESSAGE value="Adding Batch file" />
     <MESSAGE value="removedbatch file" />
     <MESSAGE value="Added Unittest Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Unittest Framework" />
+    <MESSAGE value="Fixed Directory Issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Directory Issue" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demojob.bat">
@@ -328,13 +276,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Automation_Unitetest_Framewok/objectrepository_imdb.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Automation_Unit_Test_Framework/Page_Object_Model/Base_Page.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -378,11 +319,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Automation_Unit_Test_Framework/Test_Suite/test_suite_001.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="102">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
