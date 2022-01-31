@@ -1,8 +1,8 @@
-from Object_Repository import objectrepository_imdb as OR
+from Automation_Unit_Test_Framework.Object_Repository import objectrepository_imdb as OR
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from Base_Page import BasePage
+from Automation_Unit_Test_Framework.Page_Object_Model.Base_Page import BasePage
 
 class SignIN(BasePage):
 

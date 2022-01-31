@@ -2,20 +2,17 @@ from selenium import webdriver
 import unittest
 import sys
 import path
-
-# directory reach
-directory = path.path(__file__).abspath()
-
-# setting path
-sys.path.append(directory.parent.parent)
-
+import os
+current = os.path.dirname(os.path.realpath(__file__))
+parent = os.path.dirname(current)
+sys.path.append(parent)
 # sys.path.insert(0,r'D:\AUTO_TC\ST_IM_PERSONA_PROD\Object_Repository')
 # sys.path.insert(0,r'D:\AUTO_TC\ST_IM_PERSONA_PROD\Keywords')
 # sys.path.insert(0,r'D:\AUTO_TC\Python_Reusable_Utilities')
-from Object_Repository import utilities_imdb
-from Sign_In_Page import SignIN
-from Common_Keywords import CmnKeywords
-from Home_Page import Home
+from Automation_Unit_Test_Framework.Object_Repository import utilities_imdb
+from Automation_Unit_Test_Framework.Page_Object_Model.Sign_In_Page import SignIN
+from Automation_Unit_Test_Framework.Page_Object_Model.Common_Keywords import CmnKeywords
+from Automation_Unit_Test_Framework.Page_Object_Model.Home_Page import Home
 
 class TestSuiteIMDB(unittest.TestCase):
 

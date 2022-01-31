@@ -1,5 +1,5 @@
 import pandas as pd
-from  Object_Repository import utilities_imdb
+from  Automation_Unit_Test_Framework.Object_Repository import utilities_imdb
 
 class CmnKeywords():
 
