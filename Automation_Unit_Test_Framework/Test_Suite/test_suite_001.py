@@ -1,5 +1,17 @@
 from selenium import webdriver
 import unittest
+import sys
+import path
+
+# directory reach
+directory = path.path(__file__).abspath()
+
+# setting path
+sys.path.append(directory.parent.parent)
+
+# sys.path.insert(0,r'D:\AUTO_TC\ST_IM_PERSONA_PROD\Object_Repository')
+# sys.path.insert(0,r'D:\AUTO_TC\ST_IM_PERSONA_PROD\Keywords')
+# sys.path.insert(0,r'D:\AUTO_TC\Python_Reusable_Utilities')
 from Object_Repository import utilities_imdb
 from Sign_In_Page import SignIN
 from Common_Keywords import CmnKeywords
